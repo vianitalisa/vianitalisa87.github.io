@@ -29,7 +29,7 @@ body {
 .id {
   width: 143px;
   height: 140px;
-  background: url("../images/v2_22.png");
+  background: url("v2_22.png");
   background-repeat: no-repeat;
   background-position:center;
   opacity: 1;
@@ -363,7 +363,7 @@ body {
 .g1 {
   width: 303px;
   height: 280px;
-  background: url("../images/v42_3.png");
+  background: url("v42_3.png");
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
@@ -376,7 +376,7 @@ body {
 .g2 {
   width: 299px;
   height: 274px;
-  background: url("../images/v43_7.png");
+  background: url("v43_7.png");
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
@@ -389,7 +389,7 @@ body {
 .g3 {
   width: 303px;
   height: 306px;
-  background: url("../images/v43_11.png");
+  background: url("v43_11.png");
   background-repeat: no-repeat;
   background-position:center;
   background-size: cover;
